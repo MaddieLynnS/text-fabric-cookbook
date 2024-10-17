@@ -1,0 +1,11 @@
+---
+title: Linguistic Analysis
+output: html_document
+---
+
+Here you can say some stuff about how it works
+
+# Run practice Python code (maybe requires Jupyter extension?)
+
+```{python}
+print("Hello world!")
